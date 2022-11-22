@@ -1,5 +1,5 @@
 {
-    "name": "schranz/symfony-php-skeleton",
+    "name": "schranz-php-recipes/symfony-php-skeleton",
     "type": "project",
     "license": "MIT",
     "description": "A minimal Symfony project recommended to create bare bones applications using PHP recipe files",
@@ -69,8 +69,8 @@
             "allow-contrib": false,
             "require": "6.1.*",
             "endpoint": [
-                "https://raw.githubusercontent.com/alexander-schranz/symfony-recipes-php/flex/main/index.json",
-                "https://raw.githubusercontent.com/alexander-schranz/symfony-recipes-php-contrib/flex/main/index.json",
+                "https://raw.githubusercontent.com/schranz-php-recipes/symfony-recipes-php/flex/main/index.json",
+                "https://raw.githubusercontent.com/schranz-php-recipes/symfony-recipes-php-contrib/flex/main/index.json",
                 "flex://defaults"
             ]
         }
